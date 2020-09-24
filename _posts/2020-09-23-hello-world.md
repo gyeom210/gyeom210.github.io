@@ -3,7 +3,7 @@ layout: posts
 title: "github.io 첫번째 포스트 작성"
 date:   2020-09-23
 categories: /etc
-comments:
+comments: true
 toc: true
 ---
 
